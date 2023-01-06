@@ -1,5 +1,5 @@
 {
-  "AST/USDT": {  
+  "CBL/USDT": {  
     "price": 0.001,
     "up": 0.05,
     "down": 0.03
