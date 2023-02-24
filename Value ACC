@@ -1,6 +1,7 @@
 {
   "ACC/USDT": {  
-    "price": 0,
+    "price": -1,
     "up": 0.03,
+    "down": 0.02
   }
 }
